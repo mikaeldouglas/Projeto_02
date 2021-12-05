@@ -1,2 +1,2 @@
-digite seu e-mail
-digite sua senha
+digite seu e-mail:
+digite sua senha:
